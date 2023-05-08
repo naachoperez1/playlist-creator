@@ -27,11 +27,12 @@ that will be automatically created into your project.
 ## Usage
 
 1. Run the application by running the following command in your terminal:
+
     python main.py
 
 2. Enter the date for which you would like to create the playlist in the format YYYY-MM-DD.
 
-3. Follow the instructions provided by the application.
+3. Go to your Spotify account and enjoy you own time-travel machine!
 
 
 ## Contributing
