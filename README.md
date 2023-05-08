@@ -2,7 +2,7 @@
 
 This Python application prompts the user to input a particular date, then sends a request to the Billboard Top 100 website to obtain the 100 most popular songs on that date. It then uses BeautifulSoup to scrape the webpage and extract the names of the songs. Finally, using the Spotipy library, the application communicates with the Spotify API to create a playlist on the user's account with the top 100 songs obtained.
 
-To get your own USER_ID and USER_SECRET (both required),you wiil need to:
+To get your own USER_ID and USER_SECRET (both required), you wiil need to:
 
     1. Go to https://developer.spotify.com/
     2. Log into your account.
